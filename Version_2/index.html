@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Mon projet</title>
+
+  <style>
+    body {
+      margin: 0;
+      background: #111827;
+      font-family: Arial, sans-serif;
+      color: white;
+      text-align: center;
+    }
+
+    h1 {
+      margin-top: 35px;
+      margin-bottom: 10px;
+      font-weight: normal;
+    }
+
+    #drawing {
+      width: 1000px;
+      height: 650px;
+      margin: 0 auto;
+      border: 2px solid #333;
+      background: black;
+    }
+
+    p {
+      color: #cccccc;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Fatouma's project</h1>
+  <p>Cliquez un peu partout vous verrez</p>
+
+  <div id="drawing"></div>
+
+  <!-- Librairie SVG.js -->
+  <script src="https://cdn.jsdelivr.net/npm/@svgdotjs/svg.js@3.2/dist/svg.min.js"></script>
+
+  <!-- mon script -->
+  <script src="script.js"></script>
+</body>
+</html>
