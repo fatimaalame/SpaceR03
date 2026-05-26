@@ -1,6 +1,6 @@
 # Space R03
 
-![Space Explorer preview](images/preview.png)
+![Space Explorer preview](images/Preview.png)
 
 ## C’est quoi ce projet ?
 
@@ -27,11 +27,10 @@ L’utilisateur peut interagir avec plusieurs éléments :
 ## Animations
 
 Il y a aussi des animations qui se lancent directement dans la scène :
-
-- les étoiles scintillent doucement ;
-- les planètes bougent un peu en continu ;
-- le satellite flotte légèrement ;
-- une étoile filante traverse parfois le décor.
+- les étoiles scintillent doucement 
+- les planètes bougent un peu en continu 
+- le satellite flotte légèrement 
+- une étoile filante traverse parfois le décor 
 
 ## Objectif du travail
 
@@ -39,15 +38,15 @@ L’objectif était de créer un contenu graphique 2D animé et interactif sur l
 
 Le projet devait donc contenir :
 
-- au moins 12 composants graphiques ;
-- au moins 2 animations prédéfinies ;
+- au moins 12 composants graphiques 
+- au moins 2 animations prédéfinies 
 - au moins 4 interactions qui modifient le contenu graphique.
 
 ## Fichiers du projet
 
-- `index.html` : la page web qui affiche le projet ;
-- `script.js` : le fichier JavaScript qui crée toute la scène avec SVG.js ;
-- `description.pdf` : la courte description du thème, des animations et des interactions.
+- `index.html` : la page web qui affiche le projet 
+- `script.js` : le fichier JavaScript qui crée toute la scène avec SVG.js 
+- `description.pdf`: la courte description du thème, des animations et des interactions.
 
 ## Lancer le projet
 
