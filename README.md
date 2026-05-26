@@ -1,4 +1,6 @@
-# TR03 -> Graphique 2D interactif
+![Space Explorer preview](images/Preview.png)
+
+# Space R03
 Projet réalisé en JavaScript avec la librairie SVG.js.
 
 ## Thème
